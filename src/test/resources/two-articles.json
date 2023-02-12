@@ -1,0 +1,18 @@
+{
+    "article": [
+        {
+            "name": "Nike Club\nSudadera Capucha Hombre",
+            "code": "0338209",
+            "color": "marron",
+            "price": "34,99",
+            "size": "L"
+        }
+    ,{
+            "name": "Up Basic\nSudadera Hombre",
+            "code": "0334473",
+            "color": "gris",
+            "price": "9,99",
+            "size": "L"
+        }
+    ]
+}
